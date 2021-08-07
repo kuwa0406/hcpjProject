@@ -1,14 +1,10 @@
 body {
-    background-color: #cccccc;
+    font-weight: bold;
 }
 h1 {
     color: red;
 }
-.s1 {
-    color: blue;
-    background-color: white;
-}
-.s2{
+.s{
     color: white;
-    background-color: blue;
+    background-color: green;
 }
