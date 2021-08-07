@@ -4,9 +4,12 @@ h1 {
     background-color: red;
     font-size: 36pt;
     font-family: Impact;
+    padding: 30px;
 }
-.s1 {
+p{
     color: #990000;
     font-size: 12pt;
     font-weight: bold;
+    margin: 20px;
+    padding: 10px;
 }
