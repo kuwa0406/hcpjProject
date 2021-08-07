@@ -1,15 +1,14 @@
 body {
-    background-color: #eeffee;
+    background-color: #cccccc;
 }
 h1 {
-    color: white;
-    background-color: red;
+    color: red;
 }
-p {
+.s1 {
     color: blue;
     background-color: white;
 }
-#middle{
+.s2{
     color: white;
-    background-color: green;
+    background-color: blue;
 }
