@@ -1,0 +1,15 @@
+body {background-color: #ffeeee;}
+h1 {
+    color: white;
+    background-color: red;
+    font-size: 36pt;
+    font-family: Impact;
+    padding: 30px;
+}
+p{
+    color: #990000;
+    font-size: 12pt;
+    font-weight: bold;
+    margin: 20px;
+    padding: 10px;
+}
