@@ -1,0 +1,12 @@
+body {background-color: #ffeeee;}
+h1 {
+    color: white;
+    background-color: red;
+    font-size: 36pt;
+    font-family: Impact;
+}
+.s1 {
+    color: #990000;
+    font-size: 12pt;
+    font-weight: bold;
+}
